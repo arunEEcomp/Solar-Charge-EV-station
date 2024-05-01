@@ -18,7 +18,9 @@ Load (https://www.amazon.in/HAVELLS-Adore-9W-LED-Bulb/dp/B08BYJLB4Z/ref=sr_1_6?c
 
 NodeMCU (https://www.amazon.in/Generic-Nodemcu-Esp8266-Internet-Development/dp/B07262H53W/ref=sr_1_3_mod_primary_new?crid=21P39HTLVD4KG&dib=eyJ2IjoiMSJ9.z-sywMgzShS2JKLN4Sjd54ycmPI3Nue2wK47nG6WwEC1x5yujq-24zkCgjH-4NUrV8wHqhHgX88zVTltqNvOi30M-bX79kctlp8fjvfVDTtERa0DZitS6kW8PRn3uJvzyKJeMpqMXD9OoZkN4AbBo2yNY_BMiQWPmYyh2zub-YckP9EgI-g5pMpN81FHrECeusrEKMYfKz84bmLPTcLFCVSJZpOwqGk5zd4KOjNbb_OIM2H6Z-rG6S78vhuJE-vFqyojAVRb3NdTF7zlDiDBGHg5isgeNOk08SZnL16gJ3Y.0kLOfNMj-f2HoDgx0tkCMz1vvwuEdTm6K4L3dMp_FT8&dib_tag=se&keywords=nodemcu&qid=1714551067&s=electronics&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=nodemcu%2Celectronics%2C584&sr=1-3&th=1), Quantity-01.
 
-DTH11 Sensor (https://www.amazon.in/Robodo-Electronics-DHT11-Temperature-Raspberry/dp/B00BOMEO5U/ref=sr_1_1?dib=eyJ2IjoiMSJ9.NYVq56VtbfNMLDVp36mj24OSAwdduDZ43MPC6QXAclmRUD8sU_mZaMRj4BniODIZV641fYQ-S3oIN8pJuiPNwuQSIwnQ4maGMFmtzj3h0aUWmOtsppwcKPzGQGFRhcfdvxITUNM5SFNqBWCQhZYXYJYPVrwjb6M_kiMMAopGnDWPPZq8cUfSQy6KbpiEI7MJeLY-TN0x6qWjvhvu5oLeAPBcwzDR2vgUV2xk7Hd6dCFYmrm2w6hgiJC4WEb7O0yWXxx7HF5_DBxpOkv5eBrME7x55W9UcGZxjjTIHJyZ-iU.rKQpW0obGip3FNuFP2kvWYhW_OQszgspjT3_eodiaz0&dib_tag=se&keywords=DTH11%2Bsensor&qid=1714551297&sr=8-1&th=1), Quantity-01. For the senseing the Moisture Level and Temp. 
+DTH11 Sensor (https://www.amazon.in/Robodo-Electronics-DHT11-Temperature-Raspberry/dp/B00BOMEO5U/ref=sr_1_1?dib=eyJ2IjoiMSJ9.NYVq56VtbfNMLDVp36mj24OSAwdduDZ43MPC6QXAclmRUD8sU_mZaMRj4BniODIZV641fYQ-S3oIN8pJuiPNwuQSIwnQ4maGMFmtzj3h0aUWmOtsppwcKPzGQGFRhcfdvxITUNM5SFNqBWCQhZYXYJYPVrwjb6M_kiMMAopGnDWPPZq8cUfSQy6KbpiEI7MJeLY-TN0x6qWjvhvu5oLeAPBcwzDR2vgUV2xk7Hd6dCFYmrm2w6hgiJC4WEb7O0yWXxx7HF5_DBxpOkv5eBrME7x55W9UcGZxjjTIHJyZ-iU.rKQpW0obGip3FNuFP2kvWYhW_OQszgspjT3_eodiaz0&dib_tag=se&keywords=DTH11%2Bsensor&qid=1714551297&sr=8-1&th=1), Quantity-01. For the senseing the Humidity Level and Temp. 
+
+Blynk IOT: To monitor the values.
 
 Switch & 1 way gangbox (To control the switching the load ON & OFF) Quantity-02. Switch1: For LEVEL1 load. Switch2: For LEVEL2 LOAD.
 
