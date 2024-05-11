@@ -1,6 +1,6 @@
 Solar charging EV station with Battery management system using IOT.
 
-In this project we are using IOT to have bettery battery lifespan & Charging a Battery using Solar.
+In this project we are using IOT to have long battery lifespan & Charging a Battery using Solar.
 
 The material required are:-
 
